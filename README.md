@@ -1,2 +1,3 @@
 # Text-Mining
-# Processing and Understanding Text
+- Processing and Understanding Text
+- Feature Engineering
